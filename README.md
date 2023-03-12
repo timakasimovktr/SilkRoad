@@ -1,6 +1,6 @@
 ## Description
 
-This repository is a portfolio project that represents a platform similar to Amazon. The project is based on React and Node.js, used for creating the front-end and back-end, respectively. The project's design was created by the developer, and the database will be held in MongoDB.
+This repository is a portfolio project that represents a platform similar to Amazon. The project is based on React and Node.js, used for creating the front-end and back-end, respectively. The project's design was created by the developer (Timur Kasimov), and the database will be held in MongoDB.
 
 This platform is intended for convenient online buying and selling of goods and services. As in Amazon, users will be able to create their accounts, add products to the cart, leave reviews, and much more.
 
@@ -14,7 +14,7 @@ This repository will be continuously updated and developed, including the additi
 
 ## Описание
 
-Этот репозиторий является проектом портфолио, который представляет собой платформу, аналогичную Amazon. В основе проекта лежат React и Node.js, используемые для создания интерфейса и бэкэнда соответственно. Дизайн проекта был создан разработчиком, а база данных будет храниться в MongoDB.
+Этот репозиторий является проектом портфолио, который представляет собой платформу, аналогичную Amazon. В основе проекта лежат React и Node.js, используемые для создания интерфейса и бэкэнда соответственно. Дизайн проекта был создан разработчиком (Timur Kasimov), а база данных будет храниться в MongoDB.
 
 Эта платформа предназначена для удобной покупки и продажи товаров и услуг в режиме онлайн. Как и в Amazon, пользователи смогут создавать свои аккаунты, добавлять товары в корзину, оставлять отзывы и многое другое.
 
